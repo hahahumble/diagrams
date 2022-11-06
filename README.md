@@ -1,2 +1,4 @@
 # Gallery
-My Machine Learning Gallery
+## Machine Learning
+
+### Epoch Batch Iterations
