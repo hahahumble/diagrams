@@ -1,4 +1,5 @@
 # Gallery
 ## Machine Learning
 
-### [Epoch Batch Iterations](https://github.com/hahahumble/Gallery/blob/main/Machine-Learning/Epoch-Batch-lterations)
+### [Epoch, Batch and Iterations](https://github.com/hahahumble/Gallery/blob/main/Machine-Learning/Epoch-Batch-lterations)
+### [Normalization and Standardization](https://github.com/hahahumble/Gallery/tree/main/Machine-Learning/Normalization-Standardization)
