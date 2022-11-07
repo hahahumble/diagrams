@@ -13,3 +13,6 @@ Standardization rescales data to have a mean $\mu$ of $0$ and standard deviation
 $$X_{\text {changed }}=\frac{X-\mu}{\sigma}$$
 
 (Here $\mu$ is the mean and $\sigma$ is the std of original data $X$.) 
+
+### Example
+<img src="https://image-hosting-bucket.s3.us-west-2.amazonaws.com/images/normalization-standardization-example-en.png" alt="normalization-standardization-example-en" width="500px"/>
