@@ -1,6 +1,6 @@
 # 🏞 Diagrams
 
-我绘制一些关于**机器学习**和**云计算**的插图。
+我绘制一些关于**机器学习**和**AWS**的插图。
 ### 机器学习
 
 1. [机器学习、深度学习和人工智能的关系](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/ML-DL-and-AI)
@@ -12,3 +12,5 @@
 7. [精确率（Precision）](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/Precision)
 8. [召回率（Recall）](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/Recall)
 9. [PR 曲线（PR Curve）](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/PR-curve)
+10. [调和平均数（Harmonic Mean）](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/Harmonic-Mean)
+11. [F1 Score](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/F1-Score)
