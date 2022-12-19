@@ -16,4 +16,4 @@
 11. [F1 Score](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/F1-Score)
 12. [F1 Score 的常见问题](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/F1-Score-Problem)
 13. [训练集、验证集和测试集](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/Dataset)
-14. [独热编码](One-hot Encoding)(https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/One-Hot-Encoding)
+14. [独热编码（One-hot Encoding）](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/One-Hot-Encoding)
