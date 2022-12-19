@@ -14,3 +14,6 @@
 9. [PR 曲线（PR Curve）](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/PR-curve)
 10. [调和平均数（Harmonic Mean）](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/Harmonic-Mean)
 11. [F1 Score](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/F1-Score)
+12. [F1 Score 的常见问题](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/F1-Score-Problem)
+13. [训练集、验证集和测试集](https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/Dataset)
+14. [独热编码](One-hot Encoding)(https://github.com/hahahumble/diagrams/tree/main/Machine-Learning/One-Hot-Encoding)
